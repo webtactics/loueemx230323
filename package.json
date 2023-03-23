@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webtactics/loueemx.git"
+    "url": "git+https://github.com/webtactics/loueemx230323.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webtactics/loueemx/issues"
+    "url": "https://github.com/webtactics/loueemx230323/issues"
   },
-  "homepage": "https://github.com/webtactics/loueemx#readme",
+  "homepage": "https://github.com/webtactics/loueemx230323#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
     "@netlify/plugin-lighthouse": "^4.0.7",
