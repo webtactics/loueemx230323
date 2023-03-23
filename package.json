@@ -1,0 +1,27 @@
+{
+  "name": "loueemx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtactics/loueemx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webtactics/loueemx/issues"
+  },
+  "homepage": "https://github.com/webtactics/loueemx#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@netlify/plugin-lighthouse": "^4.0.7",
+    "netlify-plugin-minify-html": "^0.3.1"
+  }
+}
